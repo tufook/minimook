@@ -1,0 +1,2 @@
+# minimook
+ A jekyll theme
